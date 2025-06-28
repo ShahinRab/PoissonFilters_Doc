@@ -1,0 +1,6 @@
+.. _license_page:
+
+License
+=======
+
+Ubisoft 2022
